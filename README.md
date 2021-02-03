@@ -34,7 +34,7 @@ Access to http://localhost:3000/shows
 * The jar file added to the project is under ENTREGABLE folder.
 * The source code added to the project is under src/seleniumPractice/seleniumPractice
 
-###In order to execute the test correctly then you have to follow the next steps.
+### In order to execute the test correctly then you have to follow the next steps.
     Open console on project folder. (If the app is already running ignore this steps).
         npm i 
         npm run dev
