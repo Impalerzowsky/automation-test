@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="automation-test:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/automation_test_jar</output-path>
+    <root id="archive" name="automation-test.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/selenium-server-standalone-3.141.59.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
